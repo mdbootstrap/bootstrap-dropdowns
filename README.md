@@ -1,4 +1,4 @@
-# Free Bootstrap Dropdowns & Navigation Collection
+# Free Bootstrap Dropdowns & Components Collection
 
 Responsive dropdown/caret built with Bootstrap 5. Examples of navbar dropdown, dropdown list, submenu, dropdown toggle, dropdown hover, hamburger icon & more.
 
